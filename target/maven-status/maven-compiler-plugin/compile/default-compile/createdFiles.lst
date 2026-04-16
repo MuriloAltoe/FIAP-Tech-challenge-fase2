@@ -1,0 +1,10 @@
+com\fiap\library\application\service\LoanService.class
+com\fiap\library\infrastructure\exception\ResourceNotFoundException.class
+com\fiap\library\interfaces\controller\swagger\UsersControllerSwagger.class
+com\fiap\library\application\mapper\UsersMapper.class
+com\fiap\library\application\dto\UsersRequest.class
+com\fiap\library\application\service\ReportService.class
+com\fiap\library\application\dto\BookResponse.class
+com\fiap\library\application\dto\UsersResponse.class
+com\fiap\library\interfaces\controller\swagger\LoanControllerSwagger.class
+com\fiap\library\application\mapper\LoanMapper.class
