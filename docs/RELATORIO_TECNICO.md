@@ -1,5 +1,7 @@
 # Relatório Técnico - Library API
 
+Repositório: https://github.com/MuriloAltoe/FIAP-Tech-challenge-fase2
+
 ## Objetivo
 
 Reconstrução completa do projeto após perda de arquivos, mantendo arquitetura, regras de negócio e endpoints de CRUD, empréstimo/devolução e relatórios.
@@ -40,6 +42,10 @@ Reconstrução completa do projeto após perda de arquivos, mantendo arquitetura
 ## Resultado
 
 Projeto refeito e pronto para build/execução com os mesmos comportamentos funcionais definidos anteriormente.
+
+## Documento em PDF
+
+- `docs/RELATORIO_TECNICO.pdf`
 
 ## Próximos Passos Recomendados
 

@@ -1,5 +1,7 @@
 # Documentação Técnica - Library API
 
+Repositório: https://github.com/MuriloAltoe/FIAP-Tech-challenge-fase2
+
 ## Visão Geral
 
 API REST para gerenciamento de biblioteca com cadastro de livros e usuários, controle de empréstimos/devoluções e relatórios operacionais.
